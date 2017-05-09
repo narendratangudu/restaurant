@@ -1,0 +1,62 @@
+﻿body {
+font-family:Segoe UI;
+}
+body p{
+color:#1C3B23;
+margin:0px;
+}
+
+body a{
+text-decoration:none;
+color:#da1414;
+margin-right:10px;
+}
+
+#logo {
+margin:0px;
+}
+#tweet {
+color:#047F1C;
+margin:0px;
+font-size:18px;
+}
+#tweet2 {
+color:#006400;
+margin:0px;
+font-size:18px;
+}
+#qot1 {
+color:#047F1C;
+font-size:30px;
+font-family: Tw Cen MT;
+margin:0px;
+}
+
+#by {
+color:#121212;
+font-family: Tw Cen MT;
+margin:0px;
+}
+#newlink {
+color:#047F1C;
+font-family: Tw Cen MT;
+margin:0px;
+font-size:20px;
+}
+#val {
+margin:0px;
+font-size:20px;
+}
+table, th, td {
+border-collapse:collapse;
+}
+#tabl th,#tabl td{
+border:1px solid green;
+}
+#tabl th{
+background-color:green;
+color:white;
+}
+#tt2 th{
+    border: 1px solid black; 
+}
